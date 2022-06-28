@@ -1,7 +1,7 @@
-package com.skcc.tes.starrating.application.config;
+package com.skcc.tes.payment.application.config;
 
-import com.skcc.tes.starrating.domain.ports.api.PaymentServiceImpl;
-import com.skcc.tes.starrating.domain.ports.api.PaymentServicePort;
+import com.skcc.tes.payment.domain.ports.api.PaymentServiceImpl;
+import com.skcc.tes.payment.domain.ports.api.PaymentServicePort;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

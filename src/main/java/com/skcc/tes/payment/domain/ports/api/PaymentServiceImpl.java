@@ -1,7 +1,7 @@
-package com.skcc.tes.starrating.domain.ports.api;
+package com.skcc.tes.payment.domain.ports.api;
 
-import com.skcc.tes.starrating.domain.data.PaymentDto;
-import com.skcc.tes.starrating.infrastructure.adapters.kafka.PaymentApproved;
+import com.skcc.tes.payment.domain.data.PaymentDto;
+import com.skcc.tes.payment.infrastructure.adapters.kafka.PaymentApproved;
 
 import javax.transaction.Transactional;
 

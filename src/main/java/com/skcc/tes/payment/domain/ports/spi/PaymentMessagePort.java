@@ -1,4 +1,4 @@
-package com.skcc.tes.starrating.domain.ports.spi;
+package com.skcc.tes.payment.domain.ports.spi;
 
 public interface PaymentMessagePort {
     String toJson();

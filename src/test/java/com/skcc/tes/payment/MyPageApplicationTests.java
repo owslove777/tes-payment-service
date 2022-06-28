@@ -1,8 +1,6 @@
-package com.skcc.tes.starrating;
+package com.skcc.tes.payment;
 
 import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
 //@SpringBootTest
 class MyPageApplicationTests {

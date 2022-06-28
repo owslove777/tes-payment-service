@@ -1,4 +1,4 @@
-package com.skcc.tes.starrating.infrastructure.adapters.kafka;
+package com.skcc.tes.payment.infrastructure.adapters.kafka;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

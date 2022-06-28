@@ -1,4 +1,4 @@
-package com.skcc.tes.starrating.domain.data;
+package com.skcc.tes.payment.domain.data;
 
 import lombok.*;
 

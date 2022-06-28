@@ -1,4 +1,4 @@
-package com.skcc.tes.starrating.application.config;
+package com.skcc.tes.payment.application.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

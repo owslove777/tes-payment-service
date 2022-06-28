@@ -1,11 +1,9 @@
-package com.skcc.tes.starrating.application.controller;
+package com.skcc.tes.payment.application.controller;
 
-import com.skcc.tes.starrating.domain.data.PaymentDto;
-import com.skcc.tes.starrating.domain.ports.api.PaymentServicePort;
+import com.skcc.tes.payment.domain.data.PaymentDto;
+import com.skcc.tes.payment.domain.ports.api.PaymentServicePort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
 
 @RestController
 @RequiredArgsConstructor

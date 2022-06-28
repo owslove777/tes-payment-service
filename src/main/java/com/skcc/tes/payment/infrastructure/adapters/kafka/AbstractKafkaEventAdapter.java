@@ -1,9 +1,9 @@
-package com.skcc.tes.starrating.infrastructure.adapters.kafka;
+package com.skcc.tes.payment.infrastructure.adapters.kafka;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.skcc.tes.starrating.PaymentApplication;
-import com.skcc.tes.starrating.domain.ports.spi.PaymentMessagePort;
+import com.skcc.tes.payment.PaymentApplication;
+import com.skcc.tes.payment.domain.ports.spi.PaymentMessagePort;
 import org.springframework.messaging.MessageChannel;
 import org.springframework.messaging.MessageHeaders;
 import org.springframework.messaging.support.MessageBuilder;
